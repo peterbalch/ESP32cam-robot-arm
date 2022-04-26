@@ -3,6 +3,8 @@ files for my ESP32cam robot arm Instructable
 
 <link???>
 
+The source files for the ESP32 are in the Instructable. The Windows EXEs are here because Instructables doesn't allow downloadable EXEs.
+
 The ESP32cam is a very nice processor and camera which should be useful in a wide range of robotics projects. But when you look on the web most ESP32cam projects are very similar: "here's an ESP32cam, let's connect it to a PC over Wi-Fi and use the PC to recognise a face or record video". 
 
 The ESP32cam is acting as not much more than a wireless webcam. It is simply a peripheral to a PC. It should be capable of more than that. It ought to be very useful in robots that are not tethered to a PC through Wi-Fi.
